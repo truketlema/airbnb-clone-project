@@ -55,29 +55,29 @@ Document the planning process for the UI/UX design of the Airbnb clone project.
 ### 📝 Importance of User-Friendly Design
 A user-friendly design reduces friction in the booking process, increases conversions, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design ensure users can easily browse and book properties.
 
-### 🎨 Figma Design Specifications
+### 🎨 More UI/UX Design Planning
+
+**🎯 Objective:**  
+Understand and explore the Figma environment to extract design properties for implementation.
+
+### 🔹 Figma Design Properties
 
 **Color Styles:**  
-- Primary: `#FF5A5F` ❤️  
-- Secondary: `#008489` 💎  
-- Background: `#FFFFFF` ⚪  
-- Text: `#222222` 🖤  
-- Secondary Text: `#717171` 🪶  
+- Primary: `#FF5A5F`  
+- Secondary: `#008489`  
+- Background: `#FFFFFF`  
+- Text: `#222222`  
+- Secondary Text: `#717171`  
 
 **Typography:**  
-- Primary Font: Circular, Medium (500), 16px  
-- Headings: Circular, Bold (700), 24px–32px  
-- Secondary Text: Circular, Book (400), 14px  
+- Font Family: Circular  
+- Headings: Bold (700), 24px–32px  
+- Primary Text: Medium (500), 16px  
+- Secondary Text: Book (400), 14px  
 
-### 🧩 UI Component Patterns
-**Navbar:**  
-- Logo, search bar, user navigation, responsive menu  
-
-**Property Card:**  
-- Property image, basic details (price, location, rating), favorite button, responsive layout  
-
-**Footer:**  
-- Site links, company info, social media links, copyright info  
-
-All components are designed for reusability and consistent visual design across the application.
- 
+### 📝 Importance of Identifying Design Properties
+- 🎨 Ensures **visual consistency** across the application.  
+- ⚡ Helps maintain **fast and responsive design** by applying correct sizes and colors.  
+- 🧩 Makes **UI components reusable**, reducing development time.  
+- 🧭 Aligns the implementation with the **original mockup design**, preserving the intended user experience.  
+- 🖥️ Facilitates smooth collaboration between **designers and developers** by clearly documenting design specifications.
