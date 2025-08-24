@@ -57,7 +57,7 @@ A user-friendly design reduces friction in the booking process, increases conver
 
 ### 🎨 More UI/UX Design Planning
 
-**🎯 Objective:**  
+🎯 Objective:  
 Understand and explore the Figma environment to extract design properties for implementation.
 
 ### 🔹 Figma Design Properties
@@ -84,7 +84,7 @@ Understand and explore the Figma environment to extract design properties for im
 
 ## 👥 Project Roles and Responsibilities
 
-**🎯 Objective:**  
+🎯 Objective:  
 Define and document the roles and responsibilities within the Airbnb clone project.
 
 ### Roles and Responsibilities
@@ -128,3 +128,26 @@ Define and document the roles and responsibilities within the Airbnb clone proje
   - Facilitate agile processes and ceremonies.  
   - Remove blockers and improve team productivity.  
   - Ensure the team follows Scrum best practices.
+ 
+## 🧩 UI Component Patterns
+
+🎯 Objective:
+Begin exploring the UI components for the Airbnb Clone project.
+
+### Planned Components
+
+- **Navbar**  
+  - Contains logo, search bar, user navigation, and responsive menu.  
+  - Designed for consistency and easy navigation across all pages.
+
+- **Property Card**  
+  - Displays property image, basic details (price, location, rating), and a favorite button.  
+  - Responsive layout for grid and list views.  
+  - Reusable component for property listings.
+
+- **Footer**  
+  - Includes site links, company information, social media links, and copyright info.  
+  - Maintains visual consistency and accessibility across pages.
+
+All components are designed to be reusable, maintain visual consistency, and provide a seamless user experience throughout the application.
+
