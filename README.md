@@ -81,3 +81,50 @@ Understand and explore the Figma environment to extract design properties for im
 - 🧩 Makes **UI components reusable**, reducing development time.  
 - 🧭 Aligns the implementation with the **original mockup design**, preserving the intended user experience.  
 - 🖥️ Facilitates smooth collaboration between **designers and developers** by clearly documenting design specifications.
+
+## 👥 Project Roles and Responsibilities
+
+**🎯 Objective:**  
+Define and document the roles and responsibilities within the Airbnb clone project.
+
+### Roles and Responsibilities
+
+- **Project Manager**  
+  - Oversees project timeline and milestones.  
+  - Coordinates the team and manages deliverables.  
+  - Ensures the project stays on track and meets deadlines.
+
+- **Frontend Developers**  
+  - Implement UI components according to Figma designs.  
+  - Ensure responsive and accessible design.  
+  - Integrate frontend with backend APIs.
+
+- **Backend Developers**  
+  - Build and maintain APIs for data handling.  
+  - Manage database and implement business logic.  
+  - Ensure secure and efficient server-side operations.
+
+- **Designers**  
+  - Create mockups and maintain the design system.  
+  - Ensure high-quality UX and visual consistency.  
+  - Collaborate with developers to translate designs into code.
+
+- **QA/Testers**  
+  - Write and execute test cases for frontend and backend.  
+  - Report and track bugs to ensure quality.  
+  - Validate that all features meet requirements.
+
+- **DevOps Engineers**  
+  - Manage deployment, server infrastructure, and CI/CD pipelines.  
+  - Ensure smooth integration and delivery processes.  
+  - Monitor application performance and scalability.
+
+- **Product Owner**  
+  - Define project requirements and prioritize features.  
+  - Represent stakeholders’ interests.  
+  - Ensure the delivered product meets business goals.
+
+- **Scrum Master**  
+  - Facilitate agile processes and ceremonies.  
+  - Remove blockers and improve team productivity.  
+  - Ensure the team follows Scrum best practices.
